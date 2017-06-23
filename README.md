@@ -7,3 +7,5 @@ One idea is to have an Independent Graduate Research Consortium. A team led by M
 Another idea is to have a memorandum of understanding between NSF and various scientific societies, as it does with other granting agencies.
 
 A third idea is for NSF to have a competition for groups to administer grants to targeted areas. This is modeled on synthesis centers, like NCEAS, NIMBioS, and NESCent, where there is an intense competition to create a center, and then the centers allocate funds to postdocs, working groups, and tutorials through a rigorous, scientist-centered, review process. This has been described [here](https://docs.google.com/document/d/1T2mW0APduOKIr09i68AZbTjadvQd_heJZe8iQsCOERw/edit?usp=sharing).
+
+There's also an R package with info on past NSF grants [here](https://github.com/bomeara/NSFgrantparser), which might be useful for highlighting some past successes.

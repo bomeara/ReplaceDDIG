@@ -2,7 +2,7 @@
 
 The NSF DDIG was an essential part of graduate education: so much so that many biology programs structured their graduate programs to include a DDIG-like component. Especially in ecology and evolutionary biology, having a way to fund independent student research is seen as key in the community in fostering a culture of intellectual independence. NSF recently had to cancel this program due to administrative overhead, but the community seeks to find ways to help NSF re-establish a program like this, possibly (but not only) through involvement by scientific societies.
 
-One idea is to have an Independent Graduate Research Consortium. A team led by Maren Friesen is drafting a white paper on this. There is an open [Google Group](https://groups.google.com/forum/#!forum/independent-graduate-research-consortium-planning) to discuss progress on this.
+One idea is to have an Independent Graduate Research Consortium. A team led by Maren Friesen is drafting a [white paper](https://docs.google.com/document/d/1Niq3kIhGmhKqNQREpocRTPcHbqPlvG9ABnIeHwqzoPg/edit) on this. There is an open [Google Group](https://groups.google.com/forum/#!forum/independent-graduate-research-consortium-planning) to discuss progress on this.
 
 Another idea is to have a memorandum of understanding between NSF and various scientific societies, as it does with other granting agencies.
 

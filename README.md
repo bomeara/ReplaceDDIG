@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Replacing the Doctoral Dissertation Improvement Grant
 
-You can use the [editor on GitHub](https://github.com/bomeara/ddighelps/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The NSF DDIG was an essential part of graduate education: so much so that many biology programs structured their graduate programs to include a DDIG-like component. Especially in ecology and evolutionary biology, having a way to fund independent student research is seen as key in the community in fostering a culture of intellectual independence. NSF recently had to cancel this program due to administrative overhead, but the community seeks to find ways to help NSF re-establish a program like this, possibly (but not only) through involvement by scientific societies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+One idea is to have an Independent Graduate Research Consortium. A team led by Maren Friesen is drafting a white paper on this. There is an open Google Group to discuss progress on this at https://groups.google.com/forum/#!forum/independent-graduate-research-consortium-planning.
 
-### Markdown
+Another idea is to have a memorandum of understanding between NSF and various scientific societies, as it does with other granting agencies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bomeara/ddighelps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A third idea is for NSF to have a competition for groups to administer grants to targeted areas. This is modeled on synthesis centers, like NCEAS, NIMBioS, and NESCent, where there is an intense competition to create a center, and then the centers allocate funds to postdocs, working groups, and tutorials through a rigorous, scientist-centered, review process. This has been described [here](https://docs.google.com/document/d/1T2mW0APduOKIr09i68AZbTjadvQd_heJZe8iQsCOERw/edit?usp=sharing).
